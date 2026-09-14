@@ -1,0 +1,52 @@
+flowchart TB
+
+%% =========================
+%% AREA 1
+%% =========================
+    subgraph A1["Area 1"]
+        direction LR
+
+        G1["G1<br/>Synchronous Generator"]
+        G2["G2<br/>Synchronous Generator"]
+        B1["Area 1 Network"]
+        L1["Area 1 Load"]
+
+        G1 --> B1
+        G2 --> B1
+        B1 --> L1
+    end
+
+%% =========================
+%% INTER-AREA CORRIDOR
+%% =========================
+    subgraph CORRIDOR["Inter-Area Transmission Corridor"]
+        direction LR
+
+        T1["Tie Line 1"]
+        T2["Tie Line 2"]
+    end
+
+%% =========================
+%% AREA 2
+%% =========================
+    subgraph A2["Area 2"]
+        direction LR
+
+        B2["Area 2 Network"]
+        G3["G3<br/>Synchronous Generator"]
+        G4["G4<br/>Synchronous Generator"]
+        L2["Area 2 Load"]
+
+        B2 --> G3
+        B2 --> G4
+        B2 --> L2
+    end
+
+%% =========================
+%% INTER-AREA CONNECTION
+%% =========================
+    B1 -->|"Active / Reactive Power"| T1
+    B1 -->|"Active / Reactive Power"| T2
+
+    T1 --> B2
+    T2 --> B2
