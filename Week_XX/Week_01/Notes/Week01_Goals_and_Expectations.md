@@ -223,18 +223,18 @@ The Week 1 submission should include:
 - [X] Screenshot showing the Add Ons ribbon
 - [X] Confirmation that Transient Stability is available
 - [X] Confirmation that PV/QV tools are available
-- [ ] Annotated Kundur one-line diagram
-- [ ] Area 1 and Area 2 identified
-- [ ] G1–G4 identified
-- [ ] Major loads identified
-- [ ] Inter-area transmission corridor identified
+- [X] Annotated Kundur one-line diagram
+- [X] Area 1 and Area 2 identified
+- [X] G1–G4 identified
+- [X] Major loads identified
+- [X] Inter-area transmission corridor identified
 - [ ] Team-member roles listed
 - [ ] Role-rotation plan
 - [X] Folder structure
 - [X] File-naming rules
 - [X] Version-control/reproducibility rules
 - [X] Main project question
-- [ ] One-page stability metrics table
+- [X] One-page stability metrics table
 
 ---
 
