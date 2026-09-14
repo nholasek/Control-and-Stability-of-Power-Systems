@@ -255,18 +255,6 @@ For every plotted metric, include:
 - Figure number
 - Caption explaining the engineering significance
 
-Example title:
-
-```text
-Area 1 to Area 2 Tie-Line Active Power Following Three-Phase Fault
-```
-
-rather than:
-
-```text
-Power Plot
-```
-
 ---
 
 # Data Documentation
