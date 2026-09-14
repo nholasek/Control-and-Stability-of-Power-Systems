@@ -219,10 +219,10 @@ The goal will be to determine how replacing G4 affects system stability and whet
 
 The Week 1 submission should include:
 
-- [ ] Screenshot showing PowerWorld version
-- [ ] Screenshot showing the Add Ons ribbon
-- [ ] Confirmation that Transient Stability is available
-- [ ] Confirmation that PV/QV tools are available
+- [X] Screenshot showing PowerWorld version
+- [X] Screenshot showing the Add Ons ribbon
+- [X] Confirmation that Transient Stability is available
+- [X] Confirmation that PV/QV tools are available
 - [ ] Annotated Kundur one-line diagram
 - [ ] Area 1 and Area 2 identified
 - [ ] G1–G4 identified
@@ -230,10 +230,10 @@ The Week 1 submission should include:
 - [ ] Inter-area transmission corridor identified
 - [ ] Team-member roles listed
 - [ ] Role-rotation plan
-- [ ] Folder structure
-- [ ] File-naming rules
-- [ ] Version-control/reproducibility rules
-- [ ] Main project question
+- [X] Folder structure
+- [X] File-naming rules
+- [X] Version-control/reproducibility rules
+- [X] Main project question
 - [ ] One-page stability metrics table
 
 ---
