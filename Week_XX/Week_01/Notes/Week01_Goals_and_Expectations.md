@@ -245,24 +245,10 @@ Submit:
 1. **One PDF project-launch memo**
 2. **One ZIP file containing the project folder structure and initial project files**
 
-## Required Naming
-
-```text
-Team##_W01_EEE253
-```
-
-Example:
-
-```text
-Team03_W01_EEE253.pdf
-Team03_W01_EEE253.zip
-```
-
-Unless Canvas is configured for multiple-file submissions, place the PDF and supporting files inside the ZIP.
 
 ---
 
-# Suggested Memo Organization
+#  Memo Organization
 
 ## 1. Project Objective
 
@@ -301,18 +287,6 @@ Unless Canvas is configured for multiple-file submissions, place the PDF and sup
 ## 6. Stability Metrics
 
 Include the Week 1 stability-metrics table.
-
----
-
-# Grading
-
-| Criterion | Points |
-|---|---:|
-| Software and add-on verification | 15 |
-| System understanding | 15 |
-| Team and reproducibility plan | 10 |
-| Professional presentation | 10 |
-| **Total** | **50** |
 
 ---
 
